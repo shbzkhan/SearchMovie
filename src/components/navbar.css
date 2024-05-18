@@ -1,0 +1,16 @@
+.navbar{
+    background-color: #34495e;
+    display: flex;
+    justify-content: space-between; 
+    padding-inline: 2rem ;
+    margin-bottom: 3rem;
+}
+h1{
+    font-size: 2rem;
+    background-color: #34495e;
+    color: white;
+}
+.nav-search{
+    background-color: #34495e;
+    margin-top: 1rem;
+}
